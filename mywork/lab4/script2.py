@@ -2,7 +2,7 @@ import urllib.request
 import boto3
 
 # Ask for URL
-url = input("Please enter the URL for the file you would like to download: ")
+url = input("enter image URL: ")
 
 file_name = "lab4.jpg"
 
